@@ -1,0 +1,63 @@
+/* Custom CSS for Fullstack Developer Resume */
+/* if you will use APITemplate.io, use this css to style your resume */
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    font-size: 11px; 
+    line-height: 1.3; 
+    margin: 5mm;
+    padding: 0;
+    color: #333;
+}
+
+h1 {
+    font-size: 1.8em; 
+    color: #2c3e50;
+    text-align: center;
+    margin: 0.5rem 0;
+    border-bottom: 1px solid #eee; 
+}
+
+h1 + p {
+    text-align: center;
+    font-size: 9px; 
+    margin: 0.3rem 0 1rem;
+}
+
+h2 {
+    font-size: 1.6em; 
+    color: #34495e;
+    margin: 1rem 0 0.5rem;
+    border-bottom: 1px solid #f0f0f0; 
+    padding-bottom: 3px;
+}
+
+h3 {
+    font-size: 1.3em; 
+    color: #455a64;
+    margin: 0.8rem 0 0.3rem;
+}
+
+p, ul {
+    margin: 0.4rem 0; 
+}
+
+ul {
+    padding-left: 15px; 
+}
+
+li {
+    margin-bottom: 0.2rem; 
+}
+
+a {
+    color: #0066cc; 
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+pre, code, table, img, blockquote {
+    display: none; 
+}
