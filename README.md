@@ -40,20 +40,12 @@ Follow these steps to create your own resume:
 
 3. **Export to PDF**  
    Choose one of these free, user-friendly options:  
-   - **Dillinger (Online)**:  
-     - Go to [dillinger.io](https://dillinger.io/).  
-     - Paste your edited `.md` or upload the file.  
-     - Click **Export > PDF** (top-right corner).  
+   - **APITemplate (Online)**:  
+     - Go to [apitemplate.io](https://apitemplate.io/pdf-tools/convert-markdown-to-pdf/).  
+     - Paste your edited `.md`  and style with css, if you want.  
+     - Click **Generate PDF**.  
      - Download your resume as `resume.pdf`.  
-   - **GitHub + Browser**:  
-     - Upload your `.md` to your GitHub repo (or view mine at [`curriculum_en.md`](./curriculum_en.md)).  
-     - Open the file—it renders with clean formatting.  
-     - Press `Ctrl+P` (Windows) or `Cmd+P` (Mac) > **Save as PDF**.  
-     - Set:  
-       - Layout: Portrait  
-       - Margins: Standard or 1cm  
-       - Scale: 100%  
-   - **Tip**: Preview the PDF to ensure no text is cut off. Adjust margins if needed.
+    - **Tip**: Preview the PDF to ensure no text is cut off. Adjust margins if needed.
 
 ## Tips for a Standout Resume
 
