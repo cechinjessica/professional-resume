@@ -23,7 +23,7 @@ This is a clean, ATS-optimized Markdown resume template designed to showcase you
 Follow these steps to create your own resume:
 
 1. **Get the Template**  
-   - Download [`curriculum_en.md`](./resume_en.md) and [`curriculum_pt.md`](./resume_pt.md) by clicking "Raw" > "Download".  
+   - Download [`curriculum_en.md`](./curriculum_en.md) and [`curriculum_pt.md`](./curriculum_en.md) by clicking "Raw" > "Download".  
    - Or copy the content directly from the file.
    - Or fork GitHub repo
 
@@ -46,7 +46,7 @@ Follow these steps to create your own resume:
      - Click **Export > PDF** (top-right corner).  
      - Download your resume as `resume.pdf`.  
    - **GitHub + Browser**:  
-     - Upload your `.md` to your GitHub repo (or view mine at [`curriculum_en.md`](./resume_en.md)).  
+     - Upload your `.md` to your GitHub repo (or view mine at [`curriculum_en.md`](./curriculum_en.md)).  
      - Open the file—it renders with clean formatting.  
      - Press `Ctrl+P` (Windows) or `Cmd+P` (Mac) > **Save as PDF**.  
      - Set:  
